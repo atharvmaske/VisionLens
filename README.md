@@ -2,6 +2,8 @@
 
 VisionLens is a computer vision app built with YOLOv8 and Streamlit. It lets you detect and track objects from images, videos, and your webcam.
 
+## <a href="https://visionlens.streamlit.app/" target="_blank">Live Preview</a>
+
 ---
 
 ## Features
